@@ -1,2 +1,3 @@
-# magiles
-Ejemplo demostrativo del uso de Git - Materia Metodologías Agiles 
+# Metodologías Ágiles
+
+Ejemplo de la clase sobre GitHub
